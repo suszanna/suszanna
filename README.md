@@ -1,6 +1,6 @@
 - Hi, I’m @suszanna
 - I’m interested in machine and deep learning, Python & implementing climate solutions.
-- 🌱 Currently am working on mastering machine learning, python, R sofware dev for data analysis including NLP.  
+- 🌱 Currently am working on mastering machine learning, python, R software dev for data analysis including NLP.  
 - & looking to collaborate on climate recovery research projects.
 - You can reach me here>> suszann@gmail.com
 
